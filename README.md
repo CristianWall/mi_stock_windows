@@ -1,0 +1,1 @@
+# mi_stock_windows
